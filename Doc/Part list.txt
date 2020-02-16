@@ -1,0 +1,25 @@
+PART LIST TSXDuino_MEGA
+=======================
+
+R1= 62 Ohms SMD 0805
+R2= 7.5K SMD 0805
+R3= 7.5K SMD 0805
+R4= 10K SMD 0603
+R5= 10K SMD 0603
+R6= 7.5K SMD 0805
+C1= 1uF SMD 0603
+C2= 1Uf SMD 0603
+C3= 10uF SMD 0805
+C4= 1uf SMD 0603
+C5= 4.7uF 50vElectrolico SMD
+IC1= 74H4050 SMD
+IC2= PAM8406 SMD
+- Arduino MEGA2560pro USB
+- Oled 0.96 128x64 I2C
+- Switch Amplifier SMD
+- Socket PCB Audio out
+- Socket PCB REM
+- x4 leds SMD 0805
+- Switch MUTE 6 pins
+- x2 potenciomentros 1M Ohm
+- Socket SD SMD
