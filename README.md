@@ -8,7 +8,7 @@ This project is another version of the TSXDuino from @Edu_Arana, but in this cas
 
 2-TSXDuino MEGA can work with the power of the MSX cartridge slot or only the USB of the arduino MEGA. WARNING! Do not use both power simultaneously.
 
-3-En el circuito amplificador, para abaratar costes, venden un PCB, ver imagen( /images/PAM8406), y se pueden utilizar todos sus componentes
+3-In the amplifier circuit, to reduce costs, they sell a PCB, see image (/ images / PAM8406), and all its components can be used
 
 4-Download the Maxduino Firmware (MaxDuino_1.30M) adapted for arduino MEGA from MELINKV at the following link https://github.com/merlinkv
 
