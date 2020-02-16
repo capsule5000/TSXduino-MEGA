@@ -6,6 +6,8 @@ This project is another version of the TSXDuino from @Edu_Arana, but in this cas
 
 1- The PCB board is fully screen printed for easy assembly. It has under the OLED screen some pads to configure the positive (+) and negative (-) pins of the board by means of a pair of solders.
 
+2-TSXDuino MEGA can work with the power of the MSX cartridge slot or only the USB of the arduino MEGA. WARNING! Do not use both power simultaneously.
+
 2-Download the Maxduino Firmware (MaxDuino_1.30M) adapted for arduino MEGA from MELINKV at the following link https://github.com/merlinkv
 
 3- TSXDuino has an on / off selector to activate the audio through the speaker to listen to the file.
