@@ -1,6 +1,6 @@
 # TSXDuino MEGA
 
-This project is another version of the TSXDuino from @Edu_Arana, but in this case using the MEGA arduino microcontroller. Using the arduino microcontroller MEGA greatly expands the new future functions, which were limited to the arduino nano microcontroller. This project would not have been possible without the contribution of @rcmolina and @melinkv.
+This project is another version of the TSXDuino from @Edu_Arana, but in this case using the arduino MEGA arduino. Using the arduino microcontroller MEGA greatly expands the new future functions, which were limited to the arduino nano microcontroller. This project would not have been possible without the contribution of @rcmolina and @melinkv.
 
 # Instructions
 
