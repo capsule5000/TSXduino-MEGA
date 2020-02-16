@@ -8,13 +8,15 @@ This project is another version of the TSXDuino from @Edu_Arana, but in this cas
 
 2-TSXDuino MEGA can work with the power of the MSX cartridge slot or only the USB of the arduino MEGA. WARNING! Do not use both power simultaneously.
 
-2-Download the Maxduino Firmware (MaxDuino_1.30M) adapted for arduino MEGA from MELINKV at the following link https://github.com/merlinkv
+3-En el circuito amplificador, para abaratar costes, venden un PCB, ver imagen( /images/PAM8406), y se pueden utilizar todos sus componentes
 
-3- TSXDuino has an on / off selector to activate the audio through the speaker to listen to the file.
+4-Download the Maxduino Firmware (MaxDuino_1.30M) adapted for arduino MEGA from MELINKV at the following link https://github.com/merlinkv
 
-4- It also has a second on / off selector to activate the output amplifier to the computer.
+5- TSXDuino has an on / off selector to activate the audio through the speaker to listen to the file.
 
-5- TSXDuino has two potentiometers that regulate the output audio and speaker audio separately.
+6- It also has a second on / off selector to activate the output amplifier to the computer.
+
+7- TSXDuino has two potentiometers that regulate the output audio and speaker audio separately.
 
  # Images
  
