@@ -13,3 +13,5 @@ This project is another version of the TSXDuino from @Edu_Arana, but in this cas
 4- It also has a second on / off selector to activate the output amplifier to the computer.
 
 5- TSXDuino has two potentiometers that regulate the output audio and speaker audio separately.
+
+![alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/Images/image11.jpg)
