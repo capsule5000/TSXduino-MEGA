@@ -23,3 +23,7 @@ This project is another version of the TSXDuino from @Edu_Arana, but in this cas
 ![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/Images/img6.png?raw=true "Title")
 
 ![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/Images/img7.png?raw=true "Title")
+
+# Note
+
+This is a work in progress, several testing must be made but it should work as is. I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
