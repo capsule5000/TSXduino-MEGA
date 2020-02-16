@@ -16,7 +16,9 @@ This project is another version of the TSXDuino from @Edu_Arana, but in this cas
 
 6- It also has a second on / off selector to activate the output amplifier to the computer.
 
-7- TSXDuino has two potentiometers that regulate the output audio and speaker audio separately.
+7- It has 6 buttons (up, down, play, stop, root and del) to navigate through the menus of the maxduino version MEGA
+
+8- TSXDuino has two potentiometers that regulate the output audio and speaker audio separately.
 
  # Images
  
