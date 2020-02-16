@@ -4,7 +4,7 @@ This project is another version of the TSXDuino from @Edu_Arana, but in this cas
 
 # Instructions
 
-1- The PCB board is fully screen printed for easy assembly. It has under the OLED screen some pads to configure the positive (+) and negative (-) pins of the board by means of a pair of solders.
+1- The PCB board is fully screen printed for easy assembly. It has under the OLED screen some pads to configure the positive (+) and negative (-) pins of the board OLED by means of a pair of solders.
 
 2-TSXDuino MEGA can work with the power of the MSX cartridge slot or only the USB of the arduino MEGA. WARNING! Do not use both power simultaneously.
 
