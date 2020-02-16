@@ -14,5 +14,10 @@ This project is another version of the TSXDuino from @Edu_Arana, but in this cas
 
 5- TSXDuino has two potentiometers that regulate the output audio and speaker audio separately.
 
+ # Images
  
 ![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/Images/img11.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/Images/img6.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/Images/img7.png?raw=true "Title")
