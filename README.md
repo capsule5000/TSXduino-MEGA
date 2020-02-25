@@ -20,6 +20,9 @@ This project is another version of the TSXDuino from @Edu_Arana, but in this cas
 
 8- TSXDuino has two potentiometers that regulate the output audio and speaker audio separately.
 
+IMPORTANT! In this project it is necessary to take into account that to work well, the SD card recommends that it is not class10, that it is of the old ones. In my case I have a 512 Mb of aliexpress and it works perfectly. Another thing to keep in mind is that the I2C protocol of the Oled screen, which has an address that can match the Maxduino_1.30M signature of @merlinkv or be different. If the screen does not turn on, the address is different. There is a simple assembly and a sketch called I2CSCANNER, to know what address the I2C of the screen has.
+Another thing to keep in mind, is that the reason for being able to activate and deactivate the amplifier simply obeys that there are computers that have turned to certain capacitors that have lost their qualities need that extra amplification, in order to correctly load the file. It is for this reason, that if this extra amplification is not necessary, an excess saturation saturation can also generate load errors. Therefore, it is recommended to do a test without amplifying the audio, and look for an optimal setting for loading files using the AUDIO potentiometer. Only in this case, if the result of the file upload fails or works randomly, make use of the amplifier and also adjust an optimum AUDIO level for the file upload.
+
  # Images
  
 ![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/Images/img11.png?raw=true "Title")
