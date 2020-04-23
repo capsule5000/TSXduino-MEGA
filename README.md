@@ -25,6 +25,9 @@ Another thing to keep in mind, is that the reason for being able to activate and
 
 # Updates
 
+New firm update version 1.54M
+https://github.com/merlinkv/MaxDuino_1.54M
+
  # Images
  
 ![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/Images/img11.png?raw=true "Title")
