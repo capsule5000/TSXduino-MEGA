@@ -12,14 +12,17 @@ C2= 1Uf SMD 0603 capacitor
 C3= 10uF SMD 0805 capacitor
 C4= 1uf SMD 0603 capacitor
 C5= 4.7uF 50v Electrolytic SMD capacitor
-IC1= 74H4050 SMD
+IC1= 74H4050 SMD, https://a.aliexpress.com/_UkYp7
 IC2= PAM8406 SMD
-- Arduino MEGA2560pro USB
-- Oled 0.96 128x64 I2C
-- Switch Amplifier SMD 
-- Socket PCB Audio out
-- Socket PCB REM
+- Arduino MEGA2560pro USB, https://a.aliexpress.com/_UlQpg
+- Oled 0.96 128x64 I2C, https://a.aliexpress.com/_UeeZ4
+- Switch Amplifier SMD https://a.aliexpress.com/_Uo2GN
+- Socket PCB Audio out, https://a.aliexpress.com/_UmIuH
+- Socket PCB REM, https://a.aliexpress.com/_TytVJ
 - x4 leds SMD 0805
-- Switch MUTE 6 pins
+- Switch MUTE 6 pins, https://a.aliexpress.com/_UFg7B
 - x2 potentiometer 1M Ohm
-- Socket SD SMD
+- Socket SD SMD, https://a.aliexpress.com/_UBqzf
+- Mini Speaker, https://a.aliexpress.com/_UD6WV
+- x6 Micro switch SMD 6x6, https://a.aliexpress.com/_TuDot
+- NOTE: With the PAM8406 module, you can reuse IC2, C1, C2, C3, R4, R5 to reduce costs, https://a.aliexpress.com/_UrKj7
