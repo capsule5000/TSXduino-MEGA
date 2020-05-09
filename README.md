@@ -10,7 +10,7 @@ This project is another version of the TSXDuino from @Edu_Arana, but in this cas
 
 3- In the amplifier circuit, to reduce costs, they sell a PCB, see image (/ images / PAM8406), and all its components can be used
 
-4- Download the Maxduino Firmware (MaxDuino_1.30M) adapted for arduino MEGA from MELINKV at the following link https://github.com/merlinkv, https://github.com
+4- Download the Maxduino Firmware (MaxDuino_1.30M) adapted for arduino MEGA from MELINKV at the following link https://github.com/merlinkv
 
 5- TSXDuino has an on / off selector(MUTE) to activate the audio through the speaker to listen to the file.
 
