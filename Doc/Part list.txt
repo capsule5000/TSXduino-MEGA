@@ -16,7 +16,7 @@ IC1= 74H4050 SMD
 IC2= PAM8406 SMD
 - Arduino MEGA2560pro USB
 - Oled 0.96 128x64 I2C
-- Switch Amplifier SMD (https://a.aliexpress.com/_Uo2GN)
+- Switch Amplifier SMD command + k(https://a.aliexpress.com/_Uo2GN)
 - Socket PCB Audio out
 - Socket PCB REM
 - x4 leds SMD 0805
