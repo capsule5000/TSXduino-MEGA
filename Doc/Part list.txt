@@ -1,7 +1,7 @@
 PART LIST TSXDuino_MEGA
 =======================
 
-R1= 62 Ohms SMD 0805 resistor [I'm an inline-style link](https://www.google.com)
+R1= 62 Ohms SMD 0805 resistor 
 R2= 7.5K SMD 0805 resistor
 R3= 7.5K SMD 0805 resistor
 R4= 10K SMD 0603 resistor
