@@ -4,6 +4,6 @@ The PCB has been modified so that the user can use the audio connectors on the s
 
 # Images of the side and top audio connectors.
 
-![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/TSXduino-MEGA_v2/Images/TSXduino_mega_v2_1.png?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/TSXduino-MEGA_v2/Images/Tsxduino_mega_v2_1.png?raw=true "Title")
 
 ![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/Images/img11.png?raw=true "Title")
