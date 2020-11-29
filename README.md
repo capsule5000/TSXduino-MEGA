@@ -38,6 +38,9 @@ New PCB TSXduino MEGA v2
 
 ![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/Images/img7.png?raw=true "Title")
 
+# NEW PCB UPDATE
+![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/TSXduino-MEGA_v2/Images/Tsxduino_mega_v2_1.png?raw=true "Title")
+
 # Note
 
 This is a work in progress, several testing must be made but it should work as is. I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
